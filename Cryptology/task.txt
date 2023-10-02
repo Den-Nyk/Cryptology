@@ -1,0 +1,15 @@
+﻿main form: 	
+	make auto resize from second table of buttons ++++++++++++++
+	change names for second column of tasks (homeworks). +++++++++++
+
+	
+make 2 task:
+	button to read text 
+	function and button to make table of chiper +++++++++++
+	function and button to load that chiper to file ++++++
+	function and button to read table of chiper from file +++++++
+	function to reset
+	function and button to change text and unchiper it
+
+make 3 task:
+	
